@@ -1,0 +1,5 @@
+CHROMATIC ABERRATION - COLR FORMAT
+
+COLR Format supports the following features: color, opacity, variable axis, color palettes
+
+Until September 2024, COLR format is only supported on the WEB and QuarkXPress
