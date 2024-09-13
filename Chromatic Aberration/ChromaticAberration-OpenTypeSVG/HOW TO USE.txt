@@ -1,0 +1,7 @@
+CHROMATIC ABERRATION - OP-SVG FORMAT
+
+OPEN TYPE-SVG Format supports the following features: color
+
+To change color on Adobe Software, it is required to use alternative methods
+
+Until September 2024, OpenType-SVG is support on all major browsers and software

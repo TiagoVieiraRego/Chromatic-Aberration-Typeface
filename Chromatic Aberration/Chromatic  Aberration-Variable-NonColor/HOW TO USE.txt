@@ -1,0 +1,5 @@
+CHROMATIC ABERRATION - Variable TT
+
+This font file is a fallback file, with no color information, only the axis.
+
+To apply color, it is the same as a regular OpenType font.
